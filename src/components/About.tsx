@@ -43,16 +43,6 @@ const About = () => {
 </p>
 
 
-<div className="grid grid-cols-2 gap-6">
-  <div>
-    <h4 className="font-bold text-3xl text-blue-600 mb-2">1+</h4>
-    <p className="text-gray-600">Years Experience</p>
-  </div>
-  <div>
-    <h4 className="font-bold text-3xl text-blue-600 mb-2">5+</h4>
-    <p className="text-gray-600">Projects Completed</p>
-  </div>
-</div>
 
 <div className="mt-8">
   <a 
