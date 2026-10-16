@@ -27,18 +27,21 @@ const About = () => {
           <div className="w-full md:w-1/2">
            <h2 className="text-4xl font-bold mb-6 text-gray-900">About Me</h2>
 
+
 <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-  Hi, I’m Anjali Mishra — a passionate Full-Stack Web Developer with over 
-  <strong> 1+ year of hands-on experience</strong> in building real-world web applications.
-  I enjoy turning ideas into scalable, user-friendly digital solutions.
+  Hi, I’m Anjali Mishra — a Full-Stack Web Developer with hands-on experience
+  in building and maintaining web applications. I enjoy solving real-world
+  problems and creating reliable, user-friendly digital solutions.
 </p>
 
 <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-  I have worked extensively with <strong>Laravel, React, Node.js, MongoDB, and MySQL</strong>, 
-  and have experience developing admin panels, role-based systems, dashboards, 
-  REST APIs, and dynamic websites. I have successfully completed 
-  <strong> 5+ live projects</strong>
+  My core expertise includes <strong>PHP, Laravel, MySQL, REST APIs, HTML,
+  CSS, JavaScript, and Bootstrap</strong>. I have worked on admin panels,
+  role-based access systems, dashboards, database management, and dynamic
+  web applications, contributing to feature development, API integration,
+  debugging, and performance improvements across multiple projects.
 </p>
+
 
 <div className="grid grid-cols-2 gap-6">
   <div>

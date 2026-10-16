@@ -50,7 +50,7 @@ export default function OsoeasyLaundryCaseStudy() {
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4 justify-center">
                             <motion.a
-                                href="https://osoeasy.no/"
+                                href=""
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 whileHover={{ scale: 1.05 }}
